@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+84:EA:97:63:CC:A2, 2020-08-06 12:05:48, 2020-08-06 12:06:49,  1,  26, OPN, ,   , -14,        6,        0,   0.  0.  0.  0,  17, udirc-WiFi-63CCA2, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+B8:B2:F8:6E:77:1A, 2020-08-06 12:06:09, 2020-08-06 12:06:44, -36,       23, 84:EA:97:63:CC:A2,
+

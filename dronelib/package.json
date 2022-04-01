@@ -1,0 +1,38 @@
+{
+  "_from": "dronelib",
+  "_id": "dronelib@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-eyN7X/36XrODEvFn8tS/Zei70+Z6BE3Hla3lsS2T4K8CfJ9pRCGt0gxzbaiy99Cz3M6sDUpWIeHSwRThMonvpA==",
+  "_location": "/dronelib",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "dronelib",
+    "name": "dronelib",
+    "escapedName": "dronelib",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/dronelib/-/dronelib-1.0.3.tgz",
+  "_shasum": "84582318ca427f8d7f9ca512b045d4004dd8670c",
+  "_spec": "dronelib",
+  "_where": "C:\\Users\\shivv\\Nextcloud\\Documents\\GitHub\\U61W_drone",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Control your Chinese drone from Node.js",
+  "keywords": [],
+  "license": "GPL-3.0",
+  "main": "index.js",
+  "name": "dronelib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.3"
+}
